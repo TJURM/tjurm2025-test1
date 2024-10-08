@@ -158,7 +158,7 @@ void test_resize() {
 int main() {
     std::cout << "开始测试函数 << my_strlen >> ..." << std::endl;
     test_strlen();
-    std::cout << "开始测试函数 << my_strcpy >> ..." << std::endl;
+    std::cout << "开始测试函数 << my_strcat >> ..." << std::endl;
     test_strcat();
     std::cout << "开始测试函数 << my_strstr >> ..." << std::endl;
     test_strstr();
